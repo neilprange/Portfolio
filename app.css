@@ -2,12 +2,20 @@ body {
     background-color: rgb(33, 31, 31);
 }
 
-#title {
+#title1 {
     color: white;
     font-size: 400%;
     position: relative;
     text-align: center;
     top: 150px;
+}
+
+#title2 {
+    color: white;
+    font-size: 400%;
+    position: relative;
+    text-align: center;
+    top: 15px;
 }
 
 #bio {
@@ -43,4 +51,17 @@ body {
 .topnav a.active {
     background-color: #04AA6D;
     color: white;
+}
+
+.project {
+    color: white;
+    text-align: center;
+}
+
+#project1 {
+    vertical-align: middle;
+}
+
+#project2 {
+    vertical-align: middle;
 }

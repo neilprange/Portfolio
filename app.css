@@ -13,9 +13,11 @@ body {
 #bio {
     font-family: 'Times New Roman', Times, serif;
     color: white;
-    position: relative;
+    position: absolute;
     text-align: center;
-    top: 175px;
+    bottom: 50%;
+    right: 35%;
+    width: 30%;
 }
 
 .topnav {

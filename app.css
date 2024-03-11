@@ -58,10 +58,11 @@ body {
     text-align: center;
 }
 
-#project1 {
-    vertical-align: middle;
+.projectTitle {
+    font-size: 32px;
+    font-weight: bold;
 }
 
-#project2 {
-    vertical-align: middle;
+.projectDescription {
+    width: 30%;
 }

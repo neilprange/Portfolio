@@ -18,6 +18,17 @@ body {
     top: 15px;
 }
 
+#title3 {
+    color: white;
+    font-size: 400%;
+    position: relative;
+    text-align: center;
+    top: 15px;
+}
+#ethicsEssay {
+    color: white;
+}
+
 #bio {
     font-family: 'Times New Roman', Times, serif;
     color: white;

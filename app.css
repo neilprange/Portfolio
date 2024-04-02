@@ -10,7 +10,7 @@ body {
 
 #title1 {
     position: relative;
-    top: 75px;
+    top: 100px;
 }
 
 #title2 {
@@ -47,14 +47,54 @@ body {
     color: white;
 }
 
-#bio {
+.bio {
     font-family: 'Times New Roman', Times, serif;
     color: white;
     position: absolute;
     text-align: center;
-    bottom: 60%;
     right: 30%;
     width: 40%;
+}
+
+#bio1 {
+    bottom: 57.5%;
+}
+
+#bio2 {
+    bottom: 45%;
+}
+
+#contactTitle {
+    color: white;
+    font-size: 200%;
+    position: absolute;
+    right: 47%;
+    bottom: 10%;
+}
+
+.contact {
+    color: white;
+}
+
+.contact1 {
+    position: absolute;
+    left: 10px;
+    bottom: 0;
+}
+.contact2 {
+    position: absolute;
+    left: 33%;
+    bottom: 0;
+}
+.contact3 {
+    position: absolute;
+    right: 33%;
+    bottom: 15px;
+}
+.contact4 {
+    position: absolute;
+    right: 10px;
+    bottom: 15px;
 }
 
 .topnav {
@@ -96,3 +136,4 @@ body {
 .projectDescription {
     font-weight: normal;
 }
+

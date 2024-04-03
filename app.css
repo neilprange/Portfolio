@@ -5,13 +5,13 @@ body {
 .title {
     color: white;
     font-size: 400%;
-    text-align: center;
 }
 
 #title1 {
     position: relative;
     top: 150px;
     font-size: 72px;
+    left: 0%;
 }
 
 #title2 {
@@ -44,26 +44,15 @@ body {
     font-size: 300%;
 }
 
-#ethicsEssay {
-    color: white;
-}
-
-.bio {
+#bio1 {
     font-family: 'Times New Roman', Times, serif;
     color: rgb(178, 178, 178);
-    position: absolute;
-    text-align: center;
     font-size: 18px;
-    right: 30%;
     width: 40%;
-}
-
-#bio1 {
-    bottom: 42.5%;
-}
-
-#bio2 {
-    bottom: 30%;
+    position: relative;
+    text-align: center;
+    top: 150px;
+    right: -60%
 }
 
 #contactTitle {

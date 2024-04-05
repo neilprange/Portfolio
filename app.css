@@ -63,15 +63,20 @@ body {
     bottom: 10%;
 }
 
-.contact1 {
+
+#contact1 {
     position: absolute;
+    color: white;
+    text-decoration: none;
     top: 25px;
-    left: 40%;
+    right: 10%;
 }
-.contact2 {
+#contact2 {
     position: absolute;
+    color: white;
+    text-decoration: none;
     top: 25px;
-    right: 40%;
+    right: 4%;
 }
 
 .topnav {

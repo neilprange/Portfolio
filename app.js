@@ -3,7 +3,7 @@ function loadPage() {
     var name = document.getElementById("title1");
     var bio = document.getElementById("bio1");
     var namePos = 0;
-    var bioPos = -68;
+    var bioPos = -69;
 
     clearInterval(id);
     id = setInterval(frame, 15);
